@@ -6,5 +6,5 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushichavan-github?tab=repositories](https://github.com/rushichavan-github?tab=repositories)
 
-- 📫 How to reach me **chavan.rushi@yahoo.com**
+- 📫 How to reach me **chavanrishi17@gmail.com**
 
