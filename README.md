@@ -21,27 +21,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushichavan-github&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushichavan-github&theme=radical" width="48%" />
-</p>
-
----
-
-### 📝 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushichavan-github&layout=compact&theme=radical)
-
----
-
-### 🔥 Contribution Graph
-
-![Rushikesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rushichavan-github&theme=radical)
-
----
-
 ### 📂 Projects & Portfolio
 
 - 🔗 Check out my work: [GitHub Repositories](https://github.com/rushichavan-github?tab=repositories)
