@@ -20,8 +20,6 @@
 - 🧰 **Tools**: Git, Postman, Eclipse, VS Code, IntelliJ, Maven  
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rushichavan-github&show_icons=true&count_private=true&hide_border=true&theme=transparent)
-
 
 ### 📂 Projects & Portfolio
 
