@@ -15,7 +15,7 @@
 
 - 💻 **Backend**: Java, Spring Boot, REST APIs  
 - 🎨 **Frontend**: HTML, CSS, JavaScript, Angular  
-- 🗄️ **Databases**: MySQL, MongoDB  
+- 🗄️ **Databases**: MySQL  
 - ⚙️ **DevOps & Cloud**: AWS (EC2, S3, Lambda), Docker, GitHub Actions  
 - 🧰 **Tools**: Git, Postman, VS Code, IntelliJ, Maven  
 
